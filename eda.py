@@ -1,7 +1,7 @@
 import csv 
 import pandas as pd
 import numpy as np
-import pytorch
+import torch
 # Load model directly
 from transformers import AutoTokenizer, AutoModelForMaskedLM
 
